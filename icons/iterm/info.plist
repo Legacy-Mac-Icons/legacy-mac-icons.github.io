@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-10-19T00:37:27Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>iTerm.app</string>
+		</array>
+		<key>AppName</key>
+		<string>iTerm2</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>iterm.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>iterm2.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>iterm3.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>iterm4.icns</string>
+			<key>IconType</key>
+			<string>Modern</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://github.com/gnachman/iTerm2</string>
+		<string>https://iterm2.com/downloads.html</string>
+	</array>
+</dict>
+</plist>

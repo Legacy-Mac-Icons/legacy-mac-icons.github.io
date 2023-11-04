@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-10-20T04:12:44Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>Microsoft Remote Desktop.app</string>
+		</array>
+		<key>AppName</key>
+		<string>Microsoft Remote Desktop</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>rdp.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>rdp8.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>RDC.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>rdp_modern.icns</string>
+			<key>IconType</key>
+			<string>Modern</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://drive.google.com/file/d/16g8EWsnuxrz1rM2Dd_SZMrb0drMe5h8R/view?usp=sharing</string>
+		<string>https://www.macintoshrepository.org/18031-remote-desktop-connection-client-2-0</string>
+	</array>
+</dict>
+</plist>

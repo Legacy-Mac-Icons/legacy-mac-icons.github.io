@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-11-04T17:44:14Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>qBittorrent.app</string>
+		</array>
+		<key>AppName</key>
+		<string>qBittorrent</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>qbit.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>qbit2.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://sourceforge.net/projects/qbittorrent/files/</string>
+	</array>
+</dict>
+</plist>

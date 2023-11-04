@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-11-04T17:41:57Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>Apparency.app</string>
+		</array>
+		<key>AppName</key>
+		<string>Apparency</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>Apparency.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://web.archive.org/web/20200813065041/https://mothersruin.com/software/downloads/Apparency.dmg</string>
+	</array>
+</dict>
+</plist>

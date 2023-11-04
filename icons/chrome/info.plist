@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-10-20T02:53:54Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>Google Chrome.app</string>
+		</array>
+		<key>AppName</key>
+		<string>Google Chrome</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>chrome.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>chrome2.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>chrome3.icns</string>
+			<key>IconType</key>
+			<string>Modern</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://raw.githubusercontent.com/Bugazelle/chromium-all-old-stable-versions/master/chromium.stable.json</string>
+	</array>
+</dict>
+</plist>

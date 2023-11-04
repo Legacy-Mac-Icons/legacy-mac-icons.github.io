@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedDate</key>
+	<date>2023-10-19T00:18:00Z</date>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>Application</key>
+	<dict>
+		<key>AppName</key>
+		<string>Chromium</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>chromium.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>chromium2.icns</string>
+			<key>IconType</key>
+			<string>Skeuomorphic</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://github.com/chromium/chromium/commits/0f8fc8bc99dd95ef995879ebbaac023dd76e55ee/chrome/app/theme/chromium/mac/app.icns</string>
+	</array>
+</dict>
+</plist>

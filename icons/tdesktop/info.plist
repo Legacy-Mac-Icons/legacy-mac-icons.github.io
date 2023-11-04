@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AddedBy</key>
+	<string>mlebd</string>
+	<key>AddedDate</key>
+	<date>2023-10-19T00:08:08Z</date>
+	<key>Application</key>
+	<dict>
+		<key>AppPkgs</key>
+		<array>
+			<string>Telegram Lite.app</string>
+			<string>Telegram Desktop.app</string>
+			<string>Telegram.app</string>
+		</array>
+		<key>AppName</key>
+		<string>Telegram Desktop</string>
+	</dict>
+	<key>Icons</key>
+	<array>
+		<dict>
+			<key>IconPath</key>
+			<string>tdesktop.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>tdesktop2.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+		<dict>
+			<key>IconPath</key>
+			<string>tdesktop3.icns</string>
+			<key>IconType</key>
+			<string>Flat</string>
+		</dict>
+	</array>
+	<key>Sources</key>
+	<array>
+		<string>https://github.com/telegramdesktop/tdesktop</string>
+	</array>
+</dict>
+</plist>
